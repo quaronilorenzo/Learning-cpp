@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @quaronilorenzo, a 16 yo italian, currently i am a highschool student of the "ITIS G. Cardano" a computer science school.
+-  here on github i am going to post my personal projects. I want to create a good personal portfolio !
